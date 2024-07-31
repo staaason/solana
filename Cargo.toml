@@ -387,7 +387,7 @@ solana-wen-restart = { path = "wen-restart", version = "=1.18.2" }
 solana-zk-keygen = { path = "zk-keygen", version = "=1.18.2" }
 solana-zk-token-proof-program = { path = "programs/zk-token-proof", version = "=1.18.2" }
 solana-zk-token-sdk = { path = "zk-token-sdk", version = "=1.18.2" }
-solana_rbpf = {git = "https://github.com/staaason/rbpf.git", rev="e895f9afd182882188da416051f32f6d7668b352"}
+solana_rbpf = {git = "https://github.com/staaason/rbpf.git", rev="ffa2df6819ef186668d8ea9f69c766080e0a83f5"}
 spl-associated-token-account = "=2.3.0"
 spl-instruction-padding = "0.1"
 spl-memo = "=4.0.0"
